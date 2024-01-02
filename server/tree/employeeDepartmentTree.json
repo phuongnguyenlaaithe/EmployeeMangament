@@ -1,0 +1,40 @@
+{
+  "format": "standard-v1",
+  "tree": [
+    "0xd8bdb3f599dac3812ea352721f707fcbbcc9444cecefa9374ba20e53823c1b36",
+    "0x9e0ed93c39fb87c6f1f5651aa0e0ccbbb0e5116beebfd98e940dfac7503abbd8",
+    "0x93b2dbc5c933b54bd78576dc47d33ebaccca5abc4e966a7ad5eef0a022250e34",
+    "0x1dca43ea1eb5bf62cc424832dbe5dfe84dbc3dbcf76b574b6bc1b2df17a12f7c",
+    "0x30621f09b9725cb68cc02cf6c135529d5d3e42c9eeb8d78e06bea6814ba73773",
+    "0xa4bc917e0c0c3f29ba660e49280b3b74bf727a49dc71d9fba0cf980d4b0e3e8d",
+    "0x309a1a4d2dd307140df1b20b58443dfac7f56b39d20d2f6b4150b5336ec3ebc3",
+    "0x30107c46899f3995476eb72625ad2640a34ca6936bffb73291f28c233900ec21",
+    "0x1a5b55fec4c8fa9612d82c63025c4afeb4f1508402a315a21ee6d360c58e30bb",
+    "0x17230a66594c4a186d21fe2b5555bc501cd66fd467a68e49e3405d13c22cbd60",
+    "0xf1f2662770f9120272a5a293233de4bcc50c1d6a9fbf1c7161987eec40535c86",
+    "0xe915ef4b84dc8bc11bb9a4100663aab58f92c4ee2a6398eb9c83d15f1ca8dfbf",
+    "0xd6c1aba39eed38c8c006bfea80cdf03453f24c7101172401d9048807c2cd3c2c",
+    "0xca9d27aa3056ca19cf08ed70d69e21eb5d09a672563dcf1c43c00b7632aeddfb",
+    "0xc62ad2c345a44b79d1ebbad18b9b9755347aa18679066777d249dc33e194d4fa",
+    "0xc0a3dfac44105d9808e60fd9f6a405a1054760dc68ca9698fd43f14c08abf587",
+    "0xacbce0f49547b69ca6bf055780ebbdbcf0c12d71ad50807996fdd9772fecd232",
+    "0x932a2ea31a0f7400d460f833885068fb41df5d1cc576030e8472ee8032c6c4e3",
+    "0x63dff4dbba4337c6fa2893d42901f7b7e27761450598d9261f4cf43ae844e10d",
+    "0x4bb2d2eb311b18da16b9c9abea8b881ff4801a5c0699552812d81d6bd6f38555",
+    "0x22ea1c497a558fc2d78587a2c212ee17f13d28509924cd34835777a746d0a8a3"
+  ],
+  "values": [
+    { "value": ["12", "3"], "treeIndex": 19 },
+    { "value": ["11", "3"], "treeIndex": 16 },
+    { "value": ["10", "3"], "treeIndex": 17 },
+    { "value": ["7", "3"], "treeIndex": 15 },
+    { "value": ["5", "3"], "treeIndex": 10 },
+    { "value": ["13", "5"], "treeIndex": 11 },
+    { "value": ["6", "5"], "treeIndex": 20 },
+    { "value": ["8", "6"], "treeIndex": 13 },
+    { "value": ["15", "8"], "treeIndex": 14 },
+    { "value": ["14", "8"], "treeIndex": 18 },
+    { "value": ["9", "8"], "treeIndex": 12 }
+  ],
+  "leafEncoding": ["uint16", "uint16"]
+}
